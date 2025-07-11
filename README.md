@@ -21,6 +21,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 <img align="left" alt="git" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
 <br />
+<br />
 
 ### 🗂️ Databases
 <img align="left" alt="postgresql" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
