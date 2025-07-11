@@ -26,9 +26,9 @@ I actively challenge myself to design and develop full-stack projects from the g
 ### 🗂️ Databases
 <img align="left" alt="postgresql" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="redis" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-<br />
 
-#
+<br />
+<br />
 
 ### 📊 Stats
 ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganpinel06&show_icons=true&theme=tokyonight)
