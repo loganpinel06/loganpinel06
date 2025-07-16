@@ -13,7 +13,6 @@ I actively challenge myself to design and develop full-stack projects from the g
 ### 🛠️ Languages and Tools:
 
 <img align="left" alt="python" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
-<img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" />
 <img align="left" alt="javascript" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="html" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -23,7 +22,13 @@ I actively challenge myself to design and develop full-stack projects from the g
 <br />
 <br />
 
-### 🗂️ Databases
+### 🏗️ Frameworks and Libraries:
+<img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" />
+
+<br />
+<br />
+
+### 🗂️ Databases:
 <img align="left" alt="postgresql" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="redis" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 
