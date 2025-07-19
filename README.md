@@ -6,6 +6,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 </h3>
 
 - 🌱 I’m currently learning `JavaScript`
+- 💻 I'm currently developing PantryAI
 - 📫 How to reach me - **loganpinel@outlook.com**
 
 ---
