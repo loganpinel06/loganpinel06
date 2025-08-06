@@ -5,8 +5,8 @@ I’m a Full-Stack Developer and Computer Science student at the University of T
 I actively challenge myself to design and develop full-stack projects from the ground up to strengthen my foundation in both frontend and backend development.
 </h3>
 
-- 🌱 I’m currently learning `JavaScript`
-- 💻 I'm currently developing `PantryAI`
+- 🌱 Currently independently learning `JavaScript`
+- 💻 Developing `PantryAI`
 - 📫 How to reach me - **loganpinel@outlook.com**
 
 ---
