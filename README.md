@@ -15,10 +15,6 @@ I actively challenge myself to design and develop full-stack projects from the g
 - 🧠 Independently learning `JavaScript`
 - 💻 Developing `PantryAI` - A Flask Application utilizing Google Gemini API to generate recipes based on ingredients currently in the user's pantry
 
-### 📅 Events Attended
-- **[Hackabull 2025](https://lu.ma/9e1x29r4?tk=MlpLlM)** - April 2025  
-   Participated in a 24-hour Hackathon where I collaborated in a team of four to develop `ZomBeFit` - An AI-powered fitness tracker that analyzes macro trends and provides personalized health         recommendations.
-
 ### 🛠️ Languages and Tools:
 
 <img align="left" alt="python" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
@@ -46,3 +42,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 
 ### 📊 Stats
 ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganpinel06&show_icons=true&theme=tokyonight)
+
+### 📅 Events Attended
+- **[Hackabull 2025](https://lu.ma/9e1x29r4?tk=MlpLlM)** - April 2025  
+   Participated in a 24-hour Hackathon where I collaborated in a team of four to develop `ZomBeFit` - An AI-powered fitness tracker that analyzes macro trends and provides personalized health         recommendations.
