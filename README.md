@@ -1,4 +1,4 @@
-# Logan Pinel
+# 🌴 Logan Pinel
 
 <h3 align="left">
 I’m a Full-Stack Developer and Computer Science student at the University of Tampa, passionate about building real-world applications that solve meaningful problems. 
