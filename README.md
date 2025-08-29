@@ -13,7 +13,12 @@ I actively challenge myself to design and develop full-stack projects from the g
 
 ### 🚀 Ongoing Projects & Learning
 - 🧠 Independently learning `JavaScript`
-- 💻 Developing `PantryAI` - A Flask Application utilizing Google Gemini API to generate recipes based on ingredients currently in the user's pantry
+- ‼️ Recently completed development of `PantryAI`, A Flask Application utilizing Google Gemini API to generate recipes based on ingredients currently in the user's pantry. Check out the live application: https://pantryai-fbo8.onrender.com
+
+### 🎓 College Classes Fall 2025
+- Data Structures & Algorithms
+- Computer Organization & Architecture
+- Discrete Math
 
 ### 🛠️ Languages and Tools:
 
