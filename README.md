@@ -12,7 +12,8 @@ I actively challenge myself to design and develop full-stack projects from the g
 - 🔗 Connect with me on linkedin - **https://www.linkedin.com/in/logan-pinel-2609ab291/**
 
 ### 🚀 Ongoing Projects & Learning
-- 🧠 Independently learning `JavaScript`
+- 🧠 Independently learning `Node.js`
+- 🎯 Practicing `LeetCode`
 - ‼️ Recently completed development of `PantryAI`, A Flask Application utilizing Google Gemini API to generate recipes based on ingredients currently in the user's pantry. Check out the live application: https://pantryai-fbo8.onrender.com
 
 ### 🎓 College Classes Fall 2025
