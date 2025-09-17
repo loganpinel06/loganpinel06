@@ -35,7 +35,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 
 ### 🏗️ Frameworks and Libraries:
 <img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" />
-<img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 
 <br />
@@ -44,6 +44,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 ### 🗂️ Databases:
 <img align="left" alt="postgresql" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="redis" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+<img align="left" alt="redis" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 
 <br />
 <br />
