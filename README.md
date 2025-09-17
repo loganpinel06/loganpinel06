@@ -23,28 +23,28 @@ I actively challenge myself to design and develop full-stack projects from the g
 
 ### 🛠️ Languages and Tools:
 
-<img align="left" alt="python" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
-<img align="left" alt="javascript" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="html" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="css" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="scss" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="git" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="python" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=python" />          
+<img align="left" alt="javascript" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=js" />
+<img align="left" alt="html" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=html" />
+<img align="left" alt="css" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=css" />
+<img align="left" alt="scss" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=scss" />
+<img align="left" alt="git" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=git" />
           
 <br />
 <br />
 
 ### 🏗️ Frameworks and Libraries:
-<img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" />
-<img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<a href="https://expressjs.com/"><img align="left" alt="flask" width="50px" height="50px" style="padding-right:10px" src="https://skillicons.dev/icons?i=express" /></a>
+<img align="left" alt="flask" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=flask" />
+<img align="left" alt="flask" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=nodejs" />
+<a href="https://expressjs.com/"><img align="left" alt="flask" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=express" /></a>
 
 <br />
 <br />
 
 ### 🗂️ Databases:
-<img align="left" alt="postgresql" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="redis" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-<img align="left" alt="redis" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+<img align="left" alt="postgresql" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=postgresql" />
+<img align="left" alt="redis" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=redis" />
+<img align="left" alt="redis" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=prisma" />
 
 <br />
 <br />
