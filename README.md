@@ -33,9 +33,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 <br />
 <br />
 
-<div style="margin-top:20px;">
-          <h3>🏗️ Frameworks and Libraries:</h3>
-</div>
+### 🏗️ Frameworks and Libraries:
 
 <img align="left" alt="flask" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=flask" />
 <img align="left" alt="flask" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=nodejs" />
@@ -45,6 +43,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 <br />
 
 ### 🗂️ Databases:
+
 <img align="left" alt="postgresql" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=postgresql" />
 <img align="left" alt="redis" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=redis" />
 <img align="left" alt="redis" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=prisma" />
