@@ -33,6 +33,7 @@ I actively challenge myself to design and develop full-stack projects from the g
           
 <br />
 <br />
+<br />
 
 ### 🏗️ Frameworks and Libraries:
 
@@ -44,6 +45,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 
 <br />
 <br />
+<br />
 
 ### 🗂️ Databases:
 
@@ -52,6 +54,7 @@ I actively challenge myself to design and develop full-stack projects from the g
 <img align="left" alt="redis" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=redis" />
 <img align="left" alt="redis" width="65px" height="65px" style="padding-right:10px" src="https://skillicons.dev/icons?i=prisma" />
 
+<br />
 <br />
 <br />
 
