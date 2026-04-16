@@ -58,9 +58,6 @@ I actively challenge myself to design and develop full-stack projects from the g
 <br />
 <br />
 
-### 📊 Stats
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganpinel06&show_icons=true&theme=tokyonight)
-
 ### 📅 Events Attended
 - **[Hackabull 2025](https://lu.ma/9e1x29r4?tk=MlpLlM)** - April 2025  
    Participated in a 24-hour Hackathon where I collaborated in a team of four to develop `ZomBeFit` - An AI-powered fitness tracker that analyzes macro trends and provides personalized health         recommendations.
